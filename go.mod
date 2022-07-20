@@ -36,8 +36,8 @@ require (
 	github.com/google/go-attestation v0.4.3
 	github.com/gorilla/websocket v1.5.0
 	github.com/mudler/yip v0.0.0-20220704150701-30d215fa4ab0
-	github.com/onsi/ginkgo/v2 v2.1.3
-	github.com/onsi/gomega v1.19.0
+	github.com/onsi/ginkgo/v2 v2.1.4
+	github.com/onsi/gomega v1.20.0
 	github.com/pkg/errors v0.9.1
 	github.com/rancher-sandbox/ele-testhelpers v0.0.0-20220624082733-2dbd4e2d2b95
 	github.com/rancher-sandbox/go-tpm v0.0.0-20220512105546-a8efc2a6448e
@@ -64,12 +64,6 @@ require (
 )
 
 require (
-	github.com/pin/tftp v2.1.0+incompatible // indirect
-	github.com/rancher/aks-operator v1.0.2 // indirect
-	github.com/rancher/eks-operator v1.1.1 // indirect
-	github.com/rancher/gke-operator v1.1.1 // indirect
-	github.com/rancher/norman v0.0.0-20210608202517-59b3523c3133 // indirect
-	github.com/rancher/rke v1.3.1 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/blang/semver v3.5.1+incompatible // indirect
 	github.com/cespare/xxhash/v2 v2.1.2 // indirect
@@ -118,11 +112,17 @@ require (
 	github.com/opencontainers/image-spec v1.0.2 // indirect
 	github.com/pelletier/go-toml v1.9.4 // indirect
 	github.com/pierrec/lz4 v2.6.1+incompatible // indirect
+	github.com/pin/tftp v2.1.0+incompatible // indirect
 	github.com/prometheus/client_golang v1.12.1 // indirect
 	github.com/prometheus/client_model v0.2.0 // indirect
 	github.com/prometheus/common v0.34.0 // indirect
 	github.com/prometheus/procfs v0.7.3 // indirect
+	github.com/rancher/aks-operator v1.0.2 // indirect
+	github.com/rancher/eks-operator v1.1.1 // indirect
+	github.com/rancher/gke-operator v1.1.1 // indirect
+	github.com/rancher/norman v0.0.0-20210608202517-59b3523c3133 // indirect
 	github.com/rancher/remotedialer v0.2.6-0.20220104192242-f3837f8d649a // indirect
+	github.com/rancher/rke v1.3.1 // indirect
 	github.com/rancher/wharfie v0.4.3 // indirect
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
 	github.com/spf13/afero v1.6.0 // indirect
