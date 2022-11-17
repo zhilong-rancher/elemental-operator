@@ -14,3 +14,4 @@ annotations:
   catalog.cattle.io/release-name: elemental-operator
   catalog.cattle.io/provides-gvr: elemental.cattle.io/v1beta1
   catalog.cattle.io/os: linux
+  catalog.cattle.io/ui-component: plugins
